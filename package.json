@@ -1,0 +1,25 @@
+{
+  "name": "use-dispatcher",
+  "version": "0.1.0",
+  "description": "useDispatcher hook for react-redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maziart/use-dispatcher.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "disptach",
+    "useDispatcher"
+  ],
+  "author": "Maziar Taheri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maziart/use-dispatcher/issues"
+  },
+  "homepage": "https://github.com/maziart/use-dispatcher#readme"
+}
