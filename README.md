@@ -1,8 +1,25 @@
 # use-dispatcher
 
+[![NPM version](https://badgen.net/npm/v/use-dispatcher)](https://www.npmjs.com/package/use-dispatcher)
+[![License](https://badgen.net/npm/license/use-dispatcher)](https://www.npmjs.com/package/use-dispatcher)
+
 An easy-to-use "typescript friendly" hook for dispatching in react/redux.
 
 > Note: this package can be used with or without typescript!
+
+## Installation
+
+Install with [npm](https://www.npmjs.com/):
+
+```bash
+npm i use-dispatcher
+```
+
+or [yarn](https://yarnpkg.com/):
+
+```bash
+yarn add use-dispatcher
+```
 
 ## Basic Usage:
 
